@@ -8,6 +8,8 @@ https://wickbot.com/
 https://disboard.org/dashboard/servers
 ^ invites
 
+https://yagpdb.xyz/manage/
+^ kicks, bans
 
 https://autoping.xyz/
 ^ pings
