@@ -6,6 +6,7 @@ https://wickbot.com/
 ^ appeals, bans, captcha verification of users
 
 https://disboard.org/dashboard/servers
+https://discord.me/dashboard
 ^ invites
 
 https://yagpdb.xyz/manage/
